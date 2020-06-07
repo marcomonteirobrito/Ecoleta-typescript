@@ -2,7 +2,7 @@
     <img alt="" title="" src="imagens/logo-nlw.svg">
 </h1>
 
-<p>"Uma semana para acelerar sua evolução como dev e avançar para o próximo nível</p>
+<p align="center">"Uma semana para acelerar sua evolução como dev e avançar para o próximo nível"</p>
 
 <h1 align="center">
     <img alt="" title="" src="imagens/capa.PNG">
@@ -12,22 +12,22 @@
 
 <h2><strong>:satellite:Tecnologias utilizadas*</strong></h2>
 
-<h3>NodeJS</h3> <img src="imagens/node.png" alt="node" height="18">
-<h3>ReactJS</h3> <img src="imagens/react.png" alt="react" height="18">
-<h3>React Native</h3> <img src="imagens/react-native.png" alt="react-native" height="18">
-<h3>Typescript</h3> <img src="imagens/ts.PNG" alt="typescript" height="18">
+<h3>NodeJS <img src="imagens/node.png" alt="node" height="18"> </h3>
+<h3>ReactJS <img src="imagens/react.png" alt="react" height="18"> </h3>
+<h3>React Native<img src="imagens/react-native.png" alt="react-native" height="18"> </h3> 
+<h3>Typescript <img src="imagens/ts.PNG" alt="typescript" height="18"> </h3>
 
 
 ---
 
-## Telas aplicação web 
+## 🚀 Telas aplicação web 
 
 <p align="center">
 	<img alt="" title="" src="imagens/home.png">
 	<img alt="" title="" src="imagens/web.PNG">
 </p>
 
-## Aplicação mobile
+## 🚀 Aplicação mobile
 
 <p align="center">
 	<img src="imagens/ecoleta.gif" width="300" height="600"/>
