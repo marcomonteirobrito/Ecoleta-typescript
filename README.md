@@ -15,7 +15,7 @@
 <h3>NodeJS <img src="imagens/node.png" alt="node" height="18"> </h3>
 <h3>ReactJS <img src="imagens/react.png" alt="react" height="18"> </h3>
 <h3>React Native<img src="imagens/react-native.png" alt="react-native" height="18"> </h3> 
-<h3>Typescript <img src="imagens/ts.PNG" alt="typescript" height="18"> </h3>
+<h3>Typescript <img src="imagens/ts.png" alt="typescript" height="18"> </h3>
 
 
 ---
@@ -37,10 +37,10 @@
 ### Instalando aplicação
 
 Execute o comando ```npm install``` na raiz das pastas (backend, frontend e mobile) para instalar as dependências.
-<img alt="npminstall" src="imagens/npminstall.PNG"> 
+<img align="center" alt="npminstall" src="imagens/npminstall.PNG"> 
 
 Após executado o código acima, execute o comando ```npm start``` na raiz de cada projeto.
-<img alt="npmstart" src="imagens/npmstart.PNG">
+<img align="center" alt="npmstart" src="imagens/npmstart.PNG">
 
 > Obs: Baixe o aplicativo EXPO no seu celular pela APPLE STORE ou PLAY STORE.
 > Obs: Quando executar o comando npm start no projeto mobile, será aberto uma tela no seu navegador, anote o numero circulado na imagem abaixo que corresponde ao seu computador.
